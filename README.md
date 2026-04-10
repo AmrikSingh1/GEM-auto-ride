@@ -1,6 +1,6 @@
 # 🔋 GEM - Go Extra Mile
 
-![GEM App Mockup](file:///Users/amriksingh/.gemini/antigravity/brain/8212f571-963f-4b1d-a866-774cbe8ed425/gem_app_mockup_1775864485567.png)
+![GEM App Mockup](assets/screenshots/mockup.png)
 
 **GEM (Go Extra Mile)** is a high-performance, intelligent auto-ride detection and tracking application for Android and iOS. Built with Flutter, it leverages a sophisticated fusion of GPS, Bluetooth, and Activity Recognition to seamlessly detect and record your commutes in the background without manual intervention.
 
